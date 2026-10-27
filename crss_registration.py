@@ -1,4 +1,4 @@
-# CRSS course registration with prerequisite validationclass CourseRegistration:
+# CRSS course registration with prerequisite validation
 
     def __init__(self):
         self.registrations = {}
