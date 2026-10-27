@@ -1,5 +1,4 @@
-# CRSS main branch - course registration system
-class CourseRegistration:
+# CRSS course registration with prerequisite validation
 
     def __init__(self):
         self.registrations = {}
