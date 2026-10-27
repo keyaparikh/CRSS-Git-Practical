@@ -1,5 +1,4 @@
-# Course Registration module for CRSS
-class CourseRegistration:
+# CRSS course registration with prerequisite validationclass CourseRegistration:
 
     def __init__(self):
         self.registrations = {}
