@@ -1,4 +1,4 @@
-# Course Registration module for CRSS
+# CRSS main branch - course registration system
 class CourseRegistration:
 
     def __init__(self):
